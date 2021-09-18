@@ -55,4 +55,4 @@
     // - Example: `C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe`
     shell: 'C:\\Windows\\System32\\bash.exe'
 
-=> Install colors like above
+=> Install colors (vim like above)
